@@ -3,3 +3,4 @@ ok
 
 
 anh luc dep trai
+anh luc ngu
